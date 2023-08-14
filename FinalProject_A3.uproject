@@ -7,6 +7,14 @@
 		{
 			"Name": "FinalProject_A3",
 			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		},
+		{
+			"Name": "NetShooter",
+			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	],
